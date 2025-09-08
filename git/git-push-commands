@@ -1,0 +1,25 @@
+ 2 cd CURRENCY-CONVERTOR
+   3 cd CURRENCY-CONVERTOR
+   4 pwd
+   5 git init
+   6 git add CURRENCY-CONVERTOR
+   7 git add currency-convertor
+   8 git add codes.js
+   9 git status
+  10 git rm --chached
+  11 git rm --cache
+  12 git rm --cache codes.js
+  13 git status
+  14 git add Index
+  15 git status
+  16 git add Logic Style
+  17 git status
+  18 git commit -m "All files are added successfully"
+  19 git status
+  20 git remote add origin https://github.com/Al0kDev/Currency-Convertor.git
+  21 git remote -v
+  22 git remote set-url origin https://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@github.com/Al0kDev/Currency-Convertor.git
+  23 git remote -v
+  24 git push origin master
+  25 clear
+  26 histroy
