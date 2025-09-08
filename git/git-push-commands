@@ -18,7 +18,6 @@
   19 git status
   20 git remote add origin https://github.com/Al0kDev/Currency-Convertor.git
   21 git remote -v
-  22 git remote set-url origin https://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@github.com/Al0kDev/Currency-Convertor.git
   23 git remote -v
   24 git push origin master
   25 clear
